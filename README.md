@@ -1,5 +1,9 @@
 login: 
 ![image](https://github.com/SandovalBrandon1027/prueba_moviles_practico-/assets/117743657/9cd4af0f-d995-4e56-995e-32726d0e26c5)
+
+CREDENCIALES: 
+![image](https://github.com/SandovalBrandon1027/prueba_moviles_practico-/assets/117743657/39e3764d-872e-460e-b4bd-0265f08d67af)
+
 home:
 ![image](https://github.com/SandovalBrandon1027/prueba_moviles_practico-/assets/117743657/65110997-e702-4e96-8158-ad96a76040ac)
 
